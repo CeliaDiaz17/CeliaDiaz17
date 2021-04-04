@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there! My name is Celia and I'm a Computer Science student.
+    - 🌱 Currently learning about everything!
+    - 👯 Open to collaborate on projects. 
+    - ⚡ 2021 Goals: Contribute more and do better!
+    - 🌱 Pronouns: she/her
 
-<!--
-**CeliaDiaz17/CeliaDiaz17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools:
+<img align="left" src="images/python.png" width="50">
+<img align="left" src="images/java.png" width="50">
+<img align="left" src="images/swipl.png" width="50">
+<img align="left" src="images/git.png" width="50">
+<img align="left" src="images/github.png" width="50">
+<img align="left" src="images/linux.png" width="50">
+<img align="left" src="images/vc.png" width="50">
+<img align="left" src="images/eclipse.png" width="50">
