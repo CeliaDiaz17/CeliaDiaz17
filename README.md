@@ -12,4 +12,10 @@
 <img align="left" src="images/github.png" width="50">
 <img align="left" src="images/linux.png" width="50">
 <img align="left" src="images/vc.png" width="50">
-<img align="left" src="images/eclipse.png" width="50">
+<img align="left" src="images/eclipse.png" width="50"><br> 
+<br>
+<br>
+<br>
+
+### My statistics:
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=CeliaDiaz17&show_icons=true&theme=tokyonight&hide_border=true"/>
