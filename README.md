@@ -21,4 +21,4 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=CeliaDiaz17&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 ### Activity graph:
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="CeliaDiaz17's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=CeliaDiaz17&bg_color=e3b298&color=a13838&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="CeliaDiaz17's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=CeliaDiaz17&bg_color=101826&color=8979ab&line=8fc7a2&point=FFFFFF&hide_border=true" /></a>
