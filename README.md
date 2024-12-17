@@ -1,4 +1,4 @@
-### Hi there! My name is Celia and I'm a Computer Science student.
+### Hi there! My name is Celia and I'm a Computer Engineer.
     - 🌱 Currently learning about everything!
     - 👯 Open to collaborate on new projects. 
     - ⚡ 2025 Goals: Contribute more and do better!
