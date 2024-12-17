@@ -1,7 +1,7 @@
 ### Hi there! My name is Celia and I'm a Computer Science student.
     - 🌱 Currently learning about everything!
     - 👯 Open to collaborate on new projects. 
-    - ⚡ 2023 Goals: Contribute more and do better!
+    - ⚡ 2025 Goals: Contribute more and do better!
     - 🌱 Pronouns: she/her
 
 ### Languages and Tools:
